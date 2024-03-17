@@ -1,0 +1,10 @@
+  .navbar{ 
+    background-color: #362d4e !important; 
+    color: white;
+}  
+
+header {
+  position: sticky;
+  top: 0;
+  
+}
